@@ -23,7 +23,6 @@
 
 <br>
 
-# Olá, me chamo Marcus Guarani! 👋
 
 ## :dart: Sobre ##
 
