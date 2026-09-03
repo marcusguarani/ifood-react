@@ -1,98 +1,78 @@
-<div align="center" id="top"> 
-  <img width="512" height="512" src="https://img.icons8.com/arcade/512/fast-food.png" alt="app-logo" />
-  &#xa0;
-  <!-- <a href="https://nativehelp.netlify.app">Demo</a> -->
-</div>
+## :dart: About ##
 
-<h1 align="center">Food Commerce</h1>
+Food Commerce é um aplicativo de pedidos de comida desenvolvido em React, projetado para oferecer uma experiência simples e intuitiva para os usuários solicitarem comida. Com uma interface amigável e atrativa, o aplicativo web  permite que os usuários naveguem por uma variedade de tipos de comidas , visualizem seus pedidos e itens que colocaram no carrinho, façam pedidos e acompanhem o status da entrega ate mesmo entrand em contato com a loja.
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/marcusguarani/ifood-react?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/marcusguarani/ifood-react?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcusguarani/ifood-react?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/marcusguarani/ifood-react?color=56BEB8">
-</p>
+## :sparkles: Features ##
 
-<p align="center">
-  <a href="#dart-sobre">Sobre o Projeto</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-iniciando-o-projeto">Iniciando o Projeto</a>
-</p>
+:heavy_check_mark: Adicionar os lanches 
+:heavy_check_mark: Visualizar no carrinho
+:heavy_check_mark: Aplicacao Toda Responsiva 
+:heavy_check_mark: Gerencia o carrinho : exclui, adiciona , aumenta quantidade de determinado item e calcula mostrando o valor total
+:heavy_check_mark: Gera a ordem de pagamento usando api de pagamentos da Asaas(modo de ambiente de testes)
 
-## :dart: Sobre ##
 
-Food Commerce é um aplicativo de pedidos de comida desenvolvido em React, projetado para oferecer uma experiência simples e intuitiva ao usuário. Com uma interface amigável e atrativa, o app permite navegar por uma variedade de tipos de comida, visualizar o carrinho e os itens do pedido, acompanhar o status da entrega e até entrar em contato com a loja.
-
-## :sparkles: Funcionalidades ##
-
-:heavy_check_mark: Adicionar lanches ao carrinho\
-:heavy_check_mark: Visualizar itens no carrinho\
-:heavy_check_mark: Aplicação totalmente responsiva\
-:heavy_check_mark: Gerenciamento completo do carrinho: exclui, adiciona, aumenta a quantidade de cada item e calcula o valor total automaticamente\
-:heavy_check_mark: Geração de ordem de pagamento usando a API da Asaas (ambiente de testes)
-
-<h2>🖥️📱 Tela de Apresentação — Mobile e Desktop</h2>
+<h2> 🖥️📱 Tela de Apresentacao  - Mobile e Desktop</h2>
 <p align="center"> 
- <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/6035081c-469d-403c-8d18-f4754b7a7a59" width="2600px" height="1080px" alt="app-mobile-desktop"/>
+ <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/6035081c-469d-403c-8d18-f4754b7a7a59" widht='2600px' height='1080px'    alt="app-mobile-desktop/>
 </p>
 
-<h2>🖥️📱 Carrinho — Mobile e Desktop</h2>
+<h2>  🖥️📱 Carrinho - Mobile e Desktop  </h2>
 <p align="center"> 
- <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/d1551270-e885-4cc7-b413-5b740c776b82" width="2600px" height="1080px" alt="app-mobile-desktop"/>
+ <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/d1551270-e885-4cc7-b413-5b740c776b82" widht='2600px' height='1080px'    alt="app-mobile-desktop"/>
 </p>
 
-<h2>🖥️📱 Formulário de Entrega e Pagamento — Mobile e Desktop</h2>
+
+<h2>  🖥️📱 Formulario de Entrega e Pagamento - Mobile e Desktop </h2>
 <p align="center"> 
- <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/0ddd9291-cab0-4250-9d75-e799f830d891" width="2600px" height="1080px" alt="app-mobile-desktop"/>
+ <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/0ddd9291-cab0-4250-9d75-e799f830d891" widht='2600px' height='1080px'    alt="app-mobile-desktop"/>
 </p>
 
-<h2>🖥️📱 Pedido Confirmado — Mobile e Desktop</h2>
+<h2>   🖥️📱 Pedido Confirmado - Mobile e Desktop </h2>
 <p align="center"> 
- <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/39d6589c-bf65-45e3-8b64-8b4cca8ab78f" width="2600px" height="1080px" alt="app-mobile-desktop"/>
+ <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/39d6589c-bf65-45e3-8b64-8b4cca8ab78f" widht='2600px' height='1080px'    alt="app-mobile-desktop"/>
 </p>
 
-## :rocket: Tecnologias ##
+## :rocket: Technologias ##
 
-Tecnologias e ferramentas usadas neste projeto:
+Tecnologias e Ferramentas usadas neste projeto
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [API de Pagamento da Asaas](https://www.asaas.com/)
-- [Yup — Validador de Formulários](https://github.com/jquense/yup)
+- [Typescript](https://www.typescriptlang.org/)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Api de Pagamento da Asaas](https://www.asaas.com/)
+- [Yup Formularios Validator](https://github.com/jquense/yup)
 - [Styled-components](https://styled-components.com/)
 - [React Router](https://reactrouter.com/en/main)
 
-## :white_check_mark: Requisitos ##
+## :white_check_mark: Requirements ##
 
-Para iniciar, você deve ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados na sua máquina.
+Para Iniciar :checkered_flag:, Voce deve ter o [Git](https://git-scm.com),[Node](https://nodejs.org/en/) instalados em sua maquina.
 
-## :checkered_flag: Iniciando o Projeto ##
+## :checkered_flag: Clonando Projeto ##
 
 ```bash
-# Clone este repositório
-$ git clone https://github.com/marcusguarani/ifood-react.git
+# Clone this project
+$ git clone 
 
-# Acesse a pasta do projeto
+# Access
 $ cd ifood-react
 
-# Instale as dependências
-$ npm install
+# Install dependencies
+$ npm install 
 
-# Rode o projeto
+# Run the project
 $ npm run start
+
 ```
 
-## ⚒️ Variáveis de Ambiente ##
+## ⚒️ Variáveis de Ambiente
 
-Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu `.env`:
+Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
 
-`REACT_APP_API_BASE_URL`\
+`REACT_APP_API_BASE_URL`
 `PORT`
 
 &#xa0;
 
-<a href="#top">Voltar ao Topo</a>
+<a href="#top">Volte ao Topo</a>
