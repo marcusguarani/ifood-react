@@ -99,18 +99,6 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 `REACT_APP_API_BASE_URL`\
 `PORT`
 
-## :memo: License ##
-
-Licença [MIT](LICENSE.md) <!-- ajuste se usar outra licença -->
-
-## 📧 Contato ##
-
-Para dúvidas ou sugestões, entre em contato: **[seu e-mail aqui]**
-
-## 🔗 Links ##
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-
 &#xa0;
 
 <a href="#top">Voltar ao Topo</a>
