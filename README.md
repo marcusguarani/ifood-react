@@ -18,9 +18,7 @@
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-iniciando-o-projeto">Iniciando o Projeto</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/marcusguarani" target="_blank">Autor</a>
+  <a href="#checkered_flag-iniciando-o-projeto">Iniciando o Projeto</a> &#xa0; | &#xa0; 
 </p>
 
 <br>
@@ -41,22 +39,22 @@ Food Commerce é um aplicativo de pedidos de comida desenvolvido em React, proje
 
 <h2>🖥️📱 Tela de Apresentação — Mobile e Desktop</h2>
 <p align="center"> 
- <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/6035081c-469d-403c-8d18-f4754b7a7a59" width="2600px" height="1080px" alt="app-mobile-desktop"/>
+ <img src="./docs/screenshots/tela-apresentacao.png" width="2600px" height="1080px" alt="app-mobile-desktop"/>
 </p>
 
 <h2>🖥️📱 Carrinho — Mobile e Desktop</h2>
 <p align="center"> 
- <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/d1551270-e885-4cc7-b413-5b740c776b82" width="2600px" height="1080px" alt="app-mobile-desktop"/>
+ <img src="./docs/screenshots/carrinho.png" width="2600px" height="1080px" alt="app-mobile-desktop"/>
 </p>
 
 <h2>🖥️📱 Formulário de Entrega e Pagamento — Mobile e Desktop</h2>
 <p align="center"> 
- <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/0ddd9291-cab0-4250-9d75-e799f830d891" width="2600px" height="1080px" alt="app-mobile-desktop"/>
+ <img src="./docs/screenshots/formulario.png" width="2600px" height="1080px" alt="app-mobile-desktop"/>
 </p>
 
 <h2>🖥️📱 Pedido Confirmado — Mobile e Desktop</h2>
 <p align="center"> 
- <img src="https://github.com/marcusguarani/ifood-react/assets/67026555/39d6589c-bf65-45e3-8b64-8b4cca8ab78f" width="2600px" height="1080px" alt="app-mobile-desktop"/>
+ <img src="./docs/screenshots/pedido-confirmado.png" width="2600px" height="1080px" alt="app-mobile-desktop"/>
 </p>
 
 ## :rocket: Tecnologias ##
